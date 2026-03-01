@@ -81,4 +81,3 @@ http://localhost:5173
 # 👨‍💻 Autor
 
 **Luigi Marconi Favini**
->>>>>>> 596c7bd79bc754d7dd005fb3c80a8d91c59aec61
